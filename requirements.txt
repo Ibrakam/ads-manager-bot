@@ -1,0 +1,6 @@
+fastapi
+aiogram~=3.4.1
+sqlalchemy~=2.0.29
+datetime~=5.5
+uvicorn~=0.29.0
+python-dotenv~=1.0.1
